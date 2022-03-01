@@ -1,0 +1,1256 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A list of their Majesties royal forces, viz. horse, dragoons and foot, now actually in service, for the year 1691.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04103</idno>
+            <idno type="STC">Wing L2513</idno>
+            <idno type="STC">ESTC R179877</idno>
+            <idno type="EEBO-CITATION">52211867</idno>
+            <idno type="OCLC">ocm 52211867</idno>
+            <idno type="VID">175720</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B04103)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175720)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2748:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A list of their Majesties royal forces, viz. horse, dragoons and foot, now actually in service, for the year 1691.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the heir of Andrew Anderson, printer to their most excellent Majesties,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>Anno Dom. 1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Text printed in columns.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  17th century --  Registers.</term>
+               <term>Great Britain --  History, Military --  1603-1714 --  Sources.</term>
+               <term>Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="document">
+            <pb facs="tcp:175720:1" rendition="simple:additions"/>
+            <head>A LIST of Their Majeſties Royal Forces, <hi>viz.</hi> Horſe, Dragoons and Foot, now Actually in Service, for the Year <hi>1691.</hi>
+            </head>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label">
+                        <hi>HORSE.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Tr.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Men</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Payment</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>p.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>An.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>E. Scarborough, Firſt Troop of Guards</cell>
+                     <cell>1</cell>
+                     <cell>260</cell>
+                     <cell>21921</cell>
+                     <cell>5</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>D. Ormond, Second Troop of Guards</cell>
+                     <cell>1</cell>
+                     <cell>260</cell>
+                     <cell>21985</cell>
+                     <cell>3</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>E. Marlebrough, Third Troop of Guards</cell>
+                     <cell>1</cell>
+                     <cell>260</cell>
+                     <cell>21921</cell>
+                     <cell>5</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>E. Drumlanrig's Troop, <hi>Scots</hi> Guards</cell>
+                     <cell>1</cell>
+                     <cell>118</cell>
+                     <cell>9687</cell>
+                     <cell>14</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>E. Oxford's Royal Regiment of Horſe</cell>
+                     <cell>9</cell>
+                     <cell>450</cell>
+                     <cell>301<gap reason="illegible: faint" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>3</cell>
+                     <cell>15</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>Sir John Lanier</cell>
+                     <cell>9</cell>
+                     <cell>450</cell>
+                     <cell>30398</cell>
+                     <cell>8</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>Coll. Villiers</cell>
+                     <cell>6</cell>
+                     <cell>300</cell>
+                     <cell>20634</cell>
+                     <cell>13</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>L. Collonel Colcheſter</cell>
+                     <cell>6</cell>
+                     <cell>300</cell>
+                     <cell>20634</cell>
+                     <cell>13</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>Collonel Ruſſel</cell>
+                     <cell>6</cell>
+                     <cell>300</cell>
+                     <cell>20634</cell>
+                     <cell>13</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>Collonel Godfrey</cell>
+                     <cell>6</cell>
+                     <cell>300</cell>
+                     <cell>20634</cell>
+                     <cell>13</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>Collonel Coy</cell>
+                     <cell>6</cell>
+                     <cell>300</cell>
+                     <cell>20634</cell>
+                     <cell>13</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>Collonel Langſton</cell>
+                     <cell>6</cell>
+                     <cell>300</cell>
+                     <cell>20634</cell>
+                     <cell>13</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>Collonel Byerley</cell>
+                     <cell>6</cell>
+                     <cell>300</cell>
+                     <cell>20634</cell>
+                     <cell>13</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>Count Scomberg</cell>
+                     <cell>6</cell>
+                     <cell>300</cell>
+                     <cell>20634</cell>
+                     <cell>13</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>D. Scomberg's <hi>French</hi> Regiment</cell>
+                     <cell>9</cell>
+                     <cell>450</cell>
+                     <cell>3039<gap reason="illegible: faint" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                     <cell>8</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>Collonel Wolſley</cell>
+                     <cell>12</cell>
+                     <cell>600</cell>
+                     <cell>40207</cell>
+                     <cell>15</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>Mr. Harbord's Independent Troop</cell>
+                     <cell>1</cell>
+                     <cell>55</cell>
+                     <cell>3245</cell>
+                     <cell>11</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Dines</hi> Baron Jewel</cell>
+                     <cell>6</cell>
+                     <cell>270</cell>
+                     <cell>22076</cell>
+                     <cell>8</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Dines</hi> Collonel Donep</cell>
+                     <cell>6</cell>
+                     <cell>270</cell>
+                     <cell>22076</cell>
+                     <cell>8</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Dines</hi> Collonel Sheſted</cell>
+                     <cell>6</cell>
+                     <cell>270</cell>
+                     <cell>22076</cell>
+                     <cell>8</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>L. Overkirk's <hi>Dutch</hi> Troop of Guards</cell>
+                     <cell>1</cell>
+                     <cell>179</cell>
+                     <cell>16126</cell>
+                     <cell>4</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>E. Portland's Regiment of Guards</cell>
+                     <cell>6</cell>
+                     <cell>480</cell>
+                     <cell>30051</cell>
+                     <cell>8</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Marq. de Mountpovillian</cell>
+                     <cell>3</cell>
+                     <cell>213</cell>
+                     <cell>13078</cell>
+                     <cell>18</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Major General Scravenmore</cell>
+                     <cell>3</cell>
+                     <cell>213</cell>
+                     <cell>13078</cell>
+                     <cell>18</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Liutenant General Ginckel</cell>
+                     <cell>3</cell>
+                     <cell>213</cell>
+                     <cell>13078</cell>
+                     <cell>18</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Van Oyen</cell>
+                     <cell>3</cell>
+                     <cell>213</cell>
+                     <cell>13078</cell>
+                     <cell>18</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Major General Zuyleſtey</cell>
+                     <cell>3</cell>
+                     <cell>213</cell>
+                     <cell>13078</cell>
+                     <cell>18</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Sack</cell>
+                     <cell>3</cell>
+                     <cell>213</cell>
+                     <cell>13078</cell>
+                     <cell>18</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Nieuenhouſen</cell>
+                     <cell>3</cell>
+                     <cell>213</cell>
+                     <cell>13078</cell>
+                     <cell>18</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Boncour</cell>
+                     <cell>3</cell>
+                     <cell>213</cell>
+                     <cell>13078</cell>
+                     <cell>18</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Reiddeſſel.</cell>
+                     <cell>3</cell>
+                     <cell>213</cell>
+                     <cell>13078</cell>
+                     <cell>18</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Total Horſe</hi>
+                     </cell>
+                     <cell>144</cell>
+                     <cell>8687</cell>
+                     <cell>605093</cell>
+                     <cell>14</cell>
+                     <cell>10</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label">
+                        <hi>DRAGOONS.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Collonel Matth's Royal Regiment</cell>
+                     <cell>8</cell>
+                     <cell>480</cell>
+                     <cell>20226</cell>
+                     <cell>13</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>Collonel Leveſon</cell>
+                     <cell>6</cell>
+                     <cell>360</cell>
+                     <cell>15999</cell>
+                     <cell>3</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>L. Fitzhardings</cell>
+                     <cell>6</cell>
+                     <cell>360</cell>
+                     <cell>15999</cell>
+                     <cell>3</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>Sir Thomas Livings;tone's <hi>Scots</hi> Royal Regiment</cell>
+                     <cell>6</cell>
+                     <cell>360</cell>
+                     <cell>15999</cell>
+                     <cell>3</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>Collonel Richard Cunninghame</cell>
+                     <cell>6</cell>
+                     <cell>360</cell>
+                     <cell>11020</cell>
+                     <cell>16</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Collonel —</cell>
+                     <cell>6</cell>
+                     <cell>360</cell>
+                     <cell>11020</cell>
+                     <cell>16</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Collonel Hefford</cell>
+                     <cell>6</cell>
+                     <cell>360</cell>
+                     <cell>15999</cell>
+                     <cell>3</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>Collonel Barkclay</cell>
+                     <cell>6</cell>
+                     <cell>360</cell>
+                     <cell>15999</cell>
+                     <cell>3</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>Sir Albert Cunninghame</cell>
+                     <cell>8</cell>
+                     <cell>480</cell>
+                     <cell>20707</cell>
+                     <cell>13</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>Collonel Wynn</cell>
+                     <cell>8</cell>
+                     <cell>480</cell>
+                     <cell>20707</cell>
+                     <cell>13</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>Coll. Epinger's <hi>Dutch</hi> Royal Regiment.</cell>
+                     <cell>10</cell>
+                     <cell>920</cell>
+                     <cell>32469</cell>
+                     <cell>8</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Total Dragoons</hi>
+                     </cell>
+                     <cell>76</cell>
+                     <cell>4880</cell>
+                     <cell>196148</cell>
+                     <cell>16</cell>
+                     <cell>8</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label">
+                        <hi>FOOT.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Co.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Men.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Payment</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>p.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>An.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>L. Sidney's Royal Regiment of Guards</cell>
+                     <cell>28</cell>
+                     <cell>2140</cell>
+                     <cell>48030</cell>
+                     <cell>19</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Coll. Talmaſh, Second Reg. of Guards</cell>
+                     <cell>14</cell>
+                     <cell>1120</cell>
+                     <cell>24372</cell>
+                     <cell>17</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>Lieut. General Dowglas, <hi>Scots</hi> Guards</cell>
+                     <cell>14</cell>
+                     <cell>1520</cell>
+                     <cell>20966</cell>
+                     <cell>4</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>D. Schomberg's Royal Regiment of <hi>Scots</hi>
+                     </cell>
+                     <cell>26</cell>
+                     <cell>1760</cell>
+                     <cell>31712</cell>
+                     <cell>8</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>E. Marleborough's Fuzeeliers</cell>
+                     <cell>13</cell>
+                     <cell>780</cell>
+                     <cell>16145</cell>
+                     <cell>3</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>Major General Kirk</cell>
+                     <cell>13</cell>
+                     <cell>780</cell>
+                     <cell>16145</cell>
+                     <cell>3</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>Sir Henry Bellaſis</cell>
+                     <cell>13</cell>
+                     <cell>780</cell>
+                     <cell>16145</cell>
+                     <cell>3</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>Coll. Churchill</cell>
+                     <cell>13</cell>
+                     <cell>780</cell>
+                     <cell>16145</cell>
+                     <cell>3</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>Coll. Trelawny</cell>
+                     <cell>13</cell>
+                     <cell>780</cell>
+                     <cell>16145</cell>
+                     <cell>3</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>Coll. Beaumount</cell>
+                     <cell>13</cell>
+                     <cell>780</cell>
+                     <cell>16145</cell>
+                     <cell>3</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>Coll. Stewart</cell>
+                     <cell>13</cell>
+                     <cell>780</cell>
+                     <cell>16145</cell>
+                     <cell>3</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>Sir John Hanmer</cell>
+                     <cell>13</cell>
+                     <cell>780</cell>
+                     <cell>16145</cell>
+                     <cell>3</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>E. Bath</cell>
+                     <cell>13</cell>
+                     <cell>780</cell>
+                     <cell>16145</cell>
+                     <cell>3</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>Coll. Brewer</cell>
+                     <cell>13</cell>
+                     <cell>780</cell>
+                     <cell>16145</cell>
+                     <cell>3</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>Coll. Haſtings</cell>
+                     <cell>13</cell>
+                     <cell>780</cell>
+                     <cell>16145</cell>
+                     <cell>3</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>Coll. Beveridge</cell>
+                     <cell>13</cell>
+                     <cell>780</cell>
+                     <cell>16145</cell>
+                     <cell>3</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>Sir James Leſley</cell>
+                     <cell>13</cell>
+                     <cell>780</cell>
+                     <cell>16145</cell>
+                     <cell>3</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>Coll. Hales</cell>
+                     <cell>13</cell>
+                     <cell>780</cell>
+                     <cell>16145</cell>
+                     <cell>3</cell>
+                     <cell>4</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label">
+                        <hi>FOOT.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Co.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Men.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Payment</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>per</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>An.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Coll. Offerel</cell>
+                     <cell>13</cell>
+                     <cell>780</cell>
+                     <cell>16145</cell>
+                     <cell>3</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>Sir David Collier</cell>
+                     <cell>13</cell>
+                     <cell>780</cell>
+                     <cell>16145</cell>
+                     <cell>3</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>Coll. Fitzpattiek</cell>
+                     <cell>13</cell>
+                     <cell>780</cell>
+                     <cell>16145</cell>
+                     <cell>3</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>Coll. Hodge</cell>
+                     <cell>13</cell>
+                     <cell>780</cell>
+                     <cell>16145</cell>
+                     <cell>3</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>E. Monmouth</cell>
+                     <cell>13</cell>
+                     <cell>780</cell>
+                     <cell>16145</cell>
+                     <cell>3</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>Coll. Lutteril</cell>
+                     <cell>13</cell>
+                     <cell>780</cell>
+                     <cell>16245</cell>
+                     <cell>3</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>Coll Foulks</cell>
+                     <cell>13</cell>
+                     <cell>780</cell>
+                     <cell>16145</cell>
+                     <cell>3</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>Coll. Guſtavus Hamilton</cell>
+                     <cell>13</cell>
+                     <cell>780</cell>
+                     <cell>16145</cell>
+                     <cell>3</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>Sir George St. George</cell>
+                     <cell>13</cell>
+                     <cell>780</cell>
+                     <cell>16145</cell>
+                     <cell>3</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>D. Boulton Hamphſh.</cell>
+                     <cell>13</cell>
+                     <cell>780</cell>
+                     <cell>16145</cell>
+                     <cell>3</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>D. Boulton North</cell>
+                     <cell>13</cell>
+                     <cell>780</cell>
+                     <cell>16145</cell>
+                     <cell>3</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>E. Meath</cell>
+                     <cell>12</cell>
+                     <cell>720</cell>
+                     <cell>14968</cell>
+                     <cell>0</cell>
+                     <cell>1<gap reason="illegible: faint" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>L. Caſtleton</cell>
+                     <cell>13</cell>
+                     <cell>780</cell>
+                     <cell>16145</cell>
+                     <cell>3</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>Coll. Herbert</cell>
+                     <cell>13</cell>
+                     <cell>780</cell>
+                     <cell>16145</cell>
+                     <cell>3</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>Lieutenant General Dowglas</cell>
+                     <cell>13</cell>
+                     <cell>780</cell>
+                     <cell>16145</cell>
+                     <cell>3</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>L. Lisburn</cell>
+                     <cell>13</cell>
+                     <cell>780</cell>
+                     <cell>16145</cell>
+                     <cell>3</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>Coll. Dering</cell>
+                     <cell>13</cell>
+                     <cell>780</cell>
+                     <cell>16145</cell>
+                     <cell>3</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>E. Drogheda</cell>
+                     <cell>13</cell>
+                     <cell>780</cell>
+                     <cell>16145</cell>
+                     <cell>3</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>Coll. Earl</cell>
+                     <cell>13</cell>
+                     <cell>780</cell>
+                     <cell>16145</cell>
+                     <cell>3</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>French</hi> Coll. Lo. Melonier</cell>
+                     <cell>13</cell>
+                     <cell>780</cell>
+                     <cell>16145</cell>
+                     <cell>3</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>French</hi> Coll. Du. Cambon</cell>
+                     <cell>13</cell>
+                     <cell>780</cell>
+                     <cell>16145</cell>
+                     <cell>3</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>French</hi> Coll. Belcaſter</cell>
+                     <cell>13</cell>
+                     <cell>780</cell>
+                     <cell>16145</cell>
+                     <cell>3</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>Coll. Tiffin</cell>
+                     <cell>13</cell>
+                     <cell>780</cell>
+                     <cell>16145</cell>
+                     <cell>3</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>Coll. Hamilton</cell>
+                     <cell>13</cell>
+                     <cell>780</cell>
+                     <cell>16145</cell>
+                     <cell>3</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>Coll. St. John</cell>
+                     <cell>13</cell>
+                     <cell>780</cell>
+                     <cell>16145</cell>
+                     <cell>3</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>L. George Hamilton</cell>
+                     <cell>13</cell>
+                     <cell>780</cell>
+                     <cell>16145</cell>
+                     <cell>3</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>Coll. Michaelburn</cell>
+                     <cell>13</cell>
+                     <cell>780</cell>
+                     <cell>16145</cell>
+                     <cell>3</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>Capt. Minor Upnor's Company</cell>
+                     <cell>1</cell>
+                     <cell>50</cell>
+                     <cell>863</cell>
+                     <cell>16</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>Company of Miners</cell>
+                     <cell>1</cell>
+                     <cell>50</cell>
+                     <cell>1733</cell>
+                     <cell>15</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Company of Fuzeeliers</cell>
+                     <cell>1</cell>
+                     <cell>60</cell>
+                     <cell>1195</cell>
+                     <cell>7</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>Coll. Slaughter, Captain King N. York Company.</cell>
+                     <cell>2</cell>
+                     <cell>120</cell>
+                     <cell>2354</cell>
+                     <cell>2</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>Coll. Hill's Independent Com<g ref="char:EOLhyphen"/>pany</cell>
+                     <cell>1</cell>
+                     <cell>60</cell>
+                     <cell>1177</cell>
+                     <cell>2</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Danes</hi> King's Battallion of Guards</cell>
+                     <cell>7</cell>
+                     <cell>700</cell>
+                     <cell>14207</cell>
+                     <cell>12</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Danes</hi> Queens Battallion</cell>
+                     <cell>6</cell>
+                     <cell>600</cell>
+                     <cell>12288</cell>
+                     <cell>6</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Danes</hi> Prince Frederick's Battallion</cell>
+                     <cell>6</cell>
+                     <cell>600</cell>
+                     <cell>12142</cell>
+                     <cell>6</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Danes</hi> Prince Chriſtian's Battallion</cell>
+                     <cell>6</cell>
+                     <cell>600</cell>
+                     <cell>12142</cell>
+                     <cell>6</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Danes</hi> Prince <hi>Go<gap reason="illegible: faint" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>'s</hi> Battallion</cell>
+                     <cell>5</cell>
+                     <cell>500</cell>
+                     <cell>10095</cell>
+                     <cell>5</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Danes</hi> The Zealand Battallion</cell>
+                     <cell>6</cell>
+                     <cell>600</cell>
+                     <cell>12142</cell>
+                     <cell>6</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Danes</hi> The Jutland Battallion</cell>
+                     <cell>6</cell>
+                     <cell>600</cell>
+                     <cell>11978</cell>
+                     <cell>1</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Danes</hi> The Finland Battallion</cell>
+                     <cell>6</cell>
+                     <cell>600</cell>
+                     <cell>11978</cell>
+                     <cell>1</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Danes</hi> The Oldenburgh Battallion</cell>
+                     <cell>6</cell>
+                     <cell>600</cell>
+                     <cell>11978</cell>
+                     <cell>1</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>Count Solm's <hi>Dutch</hi> Regiment of Guards</cell>
+                     <cell>27</cell>
+                     <cell>2634</cell>
+                     <cell>56851</cell>
+                     <cell>13</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>Coll. Babington</cell>
+                     <cell>12</cell>
+                     <cell>840</cell>
+                     <cell>15097</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Coll. Loyd</cell>
+                     <cell>12</cell>
+                     <cell>840</cell>
+                     <cell>15097</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Coll. Cutt</cell>
+                     <cell>12</cell>
+                     <cell>840</cell>
+                     <cell>15097</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Count Naſſaw</cell>
+                     <cell>12</cell>
+                     <cell>846</cell>
+                     <cell>16171</cell>
+                     <cell>8</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Prince Brandenburgh</cell>
+                     <cell>12</cell>
+                     <cell>840</cell>
+                     <cell>15171</cell>
+                     <cell>8</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Coll. Groobin</cell>
+                     <cell>12</cell>
+                     <cell>840</cell>
+                     <cell>15171</cell>
+                     <cell>8</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Major General Mackay</cell>
+                     <cell>12</cell>
+                     <cell>1200</cell>
+                     <cell>19933</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Coll. Ramſey.</cell>
+                     <cell>12</cell>
+                     <cell>1200</cell>
+                     <cell>19933</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>E. Leven</cell>
+                     <cell>13</cell>
+                     <cell>780</cell>
+                     <cell>16145</cell>
+                     <cell>3</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible: faint" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>. Argyle</cell>
+                     <cell>13</cell>
+                     <cell>780</cell>
+                     <cell>16145</cell>
+                     <cell>3</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>E. Angus</cell>
+                     <cell>13</cell>
+                     <cell>780</cell>
+                     <cell>16145</cell>
+                     <cell>3</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>Coll. Lauder</cell>
+                     <cell>13</cell>
+                     <cell>780</cell>
+                     <cell>16145</cell>
+                     <cell>3</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>Coll. Hill</cell>
+                     <cell>1</cell>
+                     <cell>1000</cell>
+                     <cell>17161</cell>
+                     <cell>12</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Coll. Buchan</cell>
+                     <cell>13</cell>
+                     <cell>780</cell>
+                     <cell>16145</cell>
+                     <cell>3</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>Lieut. Coll. Lumſden Independent Companies.</cell>
+                     <cell>1</cell>
+                     <cell>100</cell>
+                     <cell>1148</cell>
+                     <cell>8</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Major Wiſhart Independent Companies.</cell>
+                     <cell>1</cell>
+                     <cell>100</cell>
+                     <cell>1148</cell>
+                     <cell>8</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Major Monro Independent Companies.</cell>
+                     <cell>1</cell>
+                     <cell>100</cell>
+                     <cell>1148</cell>
+                     <cell>8</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Captain Murray Independent Companies.</cell>
+                     <cell>1</cell>
+                     <cell>100</cell>
+                     <cell>1148</cell>
+                     <cell>8</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Captain Mackay Independent Companies.</cell>
+                     <cell>1</cell>
+                     <cell>100</cell>
+                     <cell>1148</cell>
+                     <cell>8</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Companies of Foot,</hi>
+                     </cell>
+                     <cell>880</cell>
+                     <cell>59680</cell>
+                     <cell>1194386</cell>
+                     <cell>3</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Troops of Dragoons</hi>
+                     </cell>
+                     <cell>76</cell>
+                     <cell>4880</cell>
+                     <cell>196148</cell>
+                     <cell>16</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Troops of Horſe,</hi>
+                     </cell>
+                     <cell>144</cell>
+                     <cell>8687</cell>
+                     <cell>605093</cell>
+                     <cell>14</cell>
+                     <cell>10</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <hi>Men in all,</hi> 73247: 1995628:14:10</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Edinburgh,</hi> Printed by the Heir of <hi>Andrew Anderſon,</hi> Printer to Their moſt Excellent Majeſties, <hi>Anno DOM.</hi> 1691.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
